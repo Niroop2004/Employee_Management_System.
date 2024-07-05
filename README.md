@@ -13,7 +13,7 @@ step 4 : After changing the host, user and password of MySql you can run the cod
 
 step 5 : If you want run the after a very long time the code will give error after the login page in your editor this is because the database must be on before running the code. So for that go the MySql command line Client in your desktop, enter the password, your MySql server is on. Now rerun the login page you will be taken to the Employee_management_system interface after clicking OK on the login box.
 
-**STEP 3 and STEP 4 are most important if you dont give the correct host,user and password the code will throw the error.**
+**STEP 3 and STEP 4 are most important if you dont give the correct host,user and password the code will throw an error.**
 
 Here are the few Screenshots of my project.
 
